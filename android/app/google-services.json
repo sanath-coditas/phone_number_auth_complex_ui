@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630452618451",
+    "project_id": "phone-number-auth-fcc9f",
+    "storage_bucket": "phone-number-auth-fcc9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630452618451:android:e93d4dd46b401ccf080026",
+        "android_client_info": {
+          "package_name": "com.example.phone_number_auth_complex_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRyNS1vP6f-UYut1M9OIRB-YEQ7Su0qfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
